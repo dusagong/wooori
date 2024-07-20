@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720279955327",
+    "project_id": "wooori-92c2c",
+    "storage_bucket": "wooori-92c2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720279955327:android:46f9b277a08a4773209c4a",
+        "android_client_info": {
+          "package_name": "com.example.wooori"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQstLJJl8S3qB4TqpqUi-l7Z4939f4EpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
